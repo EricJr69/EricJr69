@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eric! <br/> <a href="https://www.linkedin.com/in/joshmadakor](https://www.linkedin.com/in/eric-quang/"> Passionate Cybersecurity Professional</a>
+<h1>Hi, I'm Eric! <br/> <a href="https://www.linkedin.com/in/eric-quang/"> Passionate Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
