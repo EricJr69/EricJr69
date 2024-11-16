@@ -1,6 +1,6 @@
 <h1>Hi, I'm Eric! <br/> <a href="https://www.linkedin.com/in/eric-quang/"> Passionate Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity / IT Projects:</h2>
 
 - <b>Azure / Cloud Project</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/EricJr69/Azure-SOC-Honeynet)
