@@ -7,9 +7,9 @@
 - <b>Vulnerability Management</b>
   - [Creating a Vulnerability Management](https://github.com/EricJr69/Vulnerability-Management)
 - <b>Active Directory</b>
-  - [Creating a Active Directory](https://github.com/EricJr69/Azure-SOC-Honeynet)
+  - [Creating an Active Directory](https://github.com/EricJr69/Azure-SOC-Honeynet)
 - <b>Azure-Sentinel</b>
-  - [Creating a Azure-Sentinel](https://github.com/EricJr69/Azure-Sentinel)
+  - [Creating an Azure-Sentinel](https://github.com/EricJr69/Azure-Sentinel)
 
 <h2>👨‍💻 Information Technology:</h2>
 
