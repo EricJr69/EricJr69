@@ -11,7 +11,7 @@
 - <b>Azure-Sentinel</b>
   - [Creating an Azure-Sentinel](https://github.com/EricJr69/Azure-Sentinel)
 
-<h2>👨‍💻 Information Technology:</h2>
+<h2>👨‍💻 Certifications:</h2>
 
 - <b>osTicket (Help Desk Ticketing System</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/EricJr69/Azure-SOC-Honeynet)
