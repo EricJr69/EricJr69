@@ -5,7 +5,7 @@
 - <b>Azure / Cloud Project</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/EricJr69/Azure-SOC-Honeynet)
 - <b>Vulnerability Management</b>
-  - [Creating a Vulnerability Management](https://github.com/EricJr69/Azure-SOC-Honeynet)
+  - [Creating a Vulnerability Management](https://github.com/EricJr69/Vulnerability-Management)
 - <b>Active Directory</b>
   - [Creating a Active Directory](https://github.com/EricJr69/Azure-SOC-Honeynet)
 
