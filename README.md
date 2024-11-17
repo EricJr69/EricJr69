@@ -15,7 +15,7 @@
 
 <h2>🏆 Certifications:</h2>
 
-- <b>[CompTIA CySA+](https://www.credly.com/badges/9aacb1af-7af8-460c-91ae-0637b0d3ec97/public_url), [Security+](https://www.credly.com/earner/earned/badge/40997b1d-3906-4b8b-82b3-33766a867c60/public_url), [Network+](https://www.credly.com/earner/earned/badge/fa50d266-0820-42c1-8c6a-94c1422797ed/public_url), [A+](https://www.credly.com/earner/earned/badge/eff193c7-9550-44b4-bee6-60ca7fbf267f/public_url)</b>
+- <b>[CompTIA CySA+](https://www.credly.com/badges/9aacb1af-7af8-460c-91ae-0637b0d3ec97/public_url), [Security+](https://www.credly.com/badges/40997b1d-3906-4b8b-82b3-33766a867c60/public_url), [Network+](https://www.credly.com/badges/fa50d266-0820-42c1-8c6a-94c1422797ed/public_url), [A+](https://www.credly.com/badges/eff193c7-9550-44b4-bee6-60ca7fbf267f/public_url)</b>
 - <b>ITIL</b>
 - <b>[Splunk Core Certified Power User](https://www.credly.com/earner/earned/badge/9ab3e790-9d88-4a37-9ff8-ceceff98b2c9/public_url)</b>
 - <b>[PMI CAPM](https://www.credly.com/earner/earned/badge/e01dd471-a7c4-4c20-8866-82da866e3254/public_url)</b>
