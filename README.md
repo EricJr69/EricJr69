@@ -8,13 +8,13 @@
 - <b>[Vulnerability Management](https://github.com/EricJr69/Vulnerability-Management)</b>
   - [Creating a Vulnerability Management] 
 - <b>[Active Directory](https://github.com/EricJr69/Active-Directory)</b>
-  - [Creating an Active Directory]
+  - Created an integrated environment with VMware, featuring a Windows Server 2019 Domain Controller and Active Directory. Populated AD with 1000 fictional users and integrated Windows 10 Pro, Ubuntu 22.04.4, and Ubuntu 23.10.1 VMs for centralized management.
 - <b>[Azure-Sentinel](https://github.com/EricJr69/Azure-Sentinel)</b>
   - [Creating an Azure-Sentinel]
 - <b>[Azure-VM-Prep](https://github.com/EricJr69/Azure-VM-Prep)</b>
   - [Creating an Azure-VM-Prep]
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>🏆 Certifications:</h2>
 
 - <b>[CompTIA CySA+](https://www.credly.com/earner/earned/badge/9aacb1af-7af8-460c-91ae-0637b0d3ec97), [Security+](https://www.credly.com/earner/earned/badge/40997b1d-3906-4b8b-82b3-33766a867c60), [Network+](https://www.credly.com/earner/earned/badge/fa50d266-0820-42c1-8c6a-94c1422797ed), [A+](https://www.credly.com/earner/earned/badge/eff193c7-9550-44b4-bee6-60ca7fbf267f)</b>
 - <b>ITIL</b>
