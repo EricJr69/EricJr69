@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity / IT Projects:</h2>
 
 - <b>[Azure / Cloud Project](https://github.com/EricJr69/Azure-SOC-Honeynet)</b>
-  - Deployed a mini honeynet in Azure, collecting log data into a Log Analytics workspace. Used Microsoft Sentinel to create attack maps, alerts, and incidents. Measured key metrics before and after applying security hardening measures, demonstrating the effectiveness of security controls.
+  - Designed and built a mini SOC and honeynet in Azure, integrating log sources into Microsoft Sentinel to monitor and secure the environment. Measured security metrics before and after applying controls, significantly reducing up to 70% of security events and incidents.
 - <b>[Vulnerability Management](https://github.com/EricJr69/Vulnerability-Management)</b>
   - Set up and configured OpenVAS in Azure to manage vulnerabilities. Created a vulnerable Windows 10 VM, performed unauthenticated and credentialed scans, and remediated identified vulnerabilities.
 - <b>[Active Directory](https://github.com/EricJr69/Active-Directory)</b>
