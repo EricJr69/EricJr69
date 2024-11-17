@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity / IT Projects:</h2>
 
 - <b>[Azure / Cloud Project](https://github.com/EricJr69/Azure-SOC-Honeynet)</b>
-  - [Creating a Live SOC/Honeynet in Azure] 
+  - Setting up a Security Operations Center (SOC) with Azure-based security tools and configurations for threat detection, investigation, and response.
+
 - <b>[Vulnerability Management](https://github.com/EricJr69/Vulnerability-Management)</b>
   - [Creating a Vulnerability Management] 
 - <b>[Active Directory](https://github.com/EricJr69/Active-Directory)</b>
