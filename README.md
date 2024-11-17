@@ -4,15 +4,14 @@
 
 - <b>[Azure / Cloud Project](https://github.com/EricJr69/Azure-SOC-Honeynet)</b>
   - Setting up a Security Operations Center (SOC) with Azure-based security tools and configurations for threat detection, investigation, and response.
-
 - <b>[Vulnerability Management](https://github.com/EricJr69/Vulnerability-Management)</b>
-  - [Creating a Vulnerability Management] 
+  - Set up and configured OpenVAS in Azure to manage vulnerabilities. Created a vulnerable Windows 10 VM, performed unauthenticated and credentialed scans, and remediated identified vulnerabilities.
 - <b>[Active Directory](https://github.com/EricJr69/Active-Directory)</b>
   - Created an integrated environment with VMware, featuring a Windows Server 2019 Domain Controller and Active Directory. Populated AD with 1000 fictional users and integrated Windows 10 Pro, Ubuntu 22.04.4, and Ubuntu 23.10.1 VMs for centralized management.
 - <b>[Azure-Sentinel](https://github.com/EricJr69/Azure-Sentinel)</b>
-  - [Creating an Azure-Sentinel]
+  - Implemented an SIEM using Azure Sentinel within virtual machines. Configured resources, created a Log Analytics Workspace, and set up custom fields to map live cyber attacks, providing real-time insights into potential threats.
 - <b>[Azure-VM-Prep](https://github.com/EricJr69/Azure-VM-Prep)</b>
-  - [Creating an Azure-VM-Prep]
+  - Set up virtual machines in Microsoft Azure to create a honeynet. Configured VMs with open inbound security rules to attract and observe potential attackers in a controlled environment.
 
 <h2>🏆 Certifications:</h2>
 
@@ -25,9 +24,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[youtube]: https://www.youtube.com/c/ericjr001
 [linkedin]: https://linkedin.com/in/eric-quang
