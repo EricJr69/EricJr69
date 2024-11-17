@@ -2,16 +2,16 @@
 
 <h2>👨‍💻 Cybersecurity / IT Projects:</h2>
 
-- <b>Azure / Cloud Project</b>
-  - [Creating a Live SOC/Honeynet in Azure](https://github.com/EricJr69/Azure-SOC-Honeynet)
-- <b>Vulnerability Management</b>
-  - [Creating a Vulnerability Management](https://github.com/EricJr69/Vulnerability-Management)
-- <b>Active Directory</b>
-  - [Creating an Active Directory](https://github.com/EricJr69/Active-Directory)
-- <b>Azure-Sentinel</b>
-  - [Creating an Azure-Sentinel](https://github.com/EricJr69/Azure-Sentinel)
-- <b>Azure-VM-Prep</b>
-  - [Creating an Azure-VM-Prep](https://github.com/EricJr69/Azure-VM-Prep)
+- <b>[Azure / Cloud Project](https://github.com/EricJr69/Azure-SOC-Honeynet)</b>
+  - [Creating a Live SOC/Honeynet in Azure] 
+- <b>[Vulnerability Management](https://github.com/EricJr69/Vulnerability-Management)</b>
+  - [Creating a Vulnerability Management] 
+- <b>[Active Directory](https://github.com/EricJr69/Active-Directory)</b>
+  - [Creating an Active Directory]
+- <b>[Azure-Sentinel](https://github.com/EricJr69/Azure-Sentinel)</b>
+  - [Creating an Azure-Sentinel]
+- <b>[Azure-VM-Prep](https://github.com/EricJr69/Azure-VM-Prep)</b>
+  - [Creating an Azure-VM-Prep]
 
 <h2>👨‍💻 Certifications:</h2>
 
